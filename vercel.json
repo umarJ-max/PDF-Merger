@@ -1,13 +1,6 @@
 {
-  "name": "pdf-merger",
-  "version": "1.0.0",
-  "description": "Professional PDF merger application",
-  "homepage": "https://pdf-merger-app.vercel.app",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/your-username/pdf-merger.git"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install"
 }

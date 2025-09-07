@@ -15,8 +15,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "PDF Merger - Combine Multiple PDFs Online",
   description: "Professional PDF merger tool to combine multiple PDF files into a single document. Fast, secure, and easy to use. Works entirely in your browser.",
-  keywords: "PDF merger, combine PDF, merge PDF files, PDF tools, online PDF merger",
-  authors: [{ name: "PDF Merger" }],
 };
 
 export const viewport = {
